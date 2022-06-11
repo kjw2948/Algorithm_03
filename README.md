@@ -14,7 +14,7 @@
 <img width="1104" alt="스크린샷 2022-06-11 오후 5 39 03" src="https://user-images.githubusercontent.com/74652783/173180595-22e7dd51-8edb-4f5b-9de8-3a3cf0313fe5.png">
 
 
-# 2. Test model_number 2
+## 2. Test model_number 2
 
 ### 1. Model
 <img width="1147" alt="스크린샷 2022-06-11 오후 5 43 52" src="https://user-images.githubusercontent.com/74652783/173180683-ab0b0c48-b9be-49fe-b683-dff9eb2176ab.png">
@@ -24,14 +24,13 @@
 <img width="986" alt="스크린샷 2022-06-11 오후 5 45 47" src="https://user-images.githubusercontent.com/74652783/173180767-c7479663-383e-419c-a201-e6868c714321.png">
 ### 4. Images and corresponding probability that predicted Right
 <img width="1170" alt="스크린샷 2022-06-11 오후 5 46 20" src="https://user-images.githubusercontent.com/74652783/173180768-0252335e-c6db-4f95-8fb5-3365c8fa2073.png">
+<img width="893" alt="스크린샷 2022-06-11 오후 6 13 18" src="https://user-images.githubusercontent.com/74652783/173181687-028bfb33-3509-4743-bbea-7ab35d531a47.png">
 
-
-<img width="1170" alt="스크린샷 2022-06-11 오후 5 46 20" src="https://user-images.githubusercontent.com/74652783/173180847-d6a232bf-596a-4c58-9a03-04a04304dd79.png">
 ### 5. Images and corresponding probability that predicted wrong
 <img width="1106" alt="스크린샷 2022-06-11 오후 5 46 34" src="https://user-images.githubusercontent.com/74652783/173180784-884e455a-7a55-4542-b515-48432ff6e308.png">
 
 
-# 3. Test model_number 3
+## 3. Test model_number 3
 ### 1. Model
 <img width="1237" alt="스크린샷 2022-06-11 오후 5 49 52" src="https://user-images.githubusercontent.com/74652783/173180948-75abb8b9-4e48-4ba3-a31e-32205a79387f.png">
 ### 2. Training with Traing loss
