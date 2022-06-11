@@ -1,7 +1,8 @@
 # Algorithm_03
 
-# Test model_number_1
+## Test model_number_1
 
+### model-1
 <img width="1125" alt="스크린샷 2022-06-11 오후 5 37 39" src="https://user-images.githubusercontent.com/74652783/173180577-5de8d0ee-46d6-4860-96bd-c4b0697b1f12.png">
 
 <img width="1102" alt="스크린샷 2022-06-11 오후 5 38 05" src="https://user-images.githubusercontent.com/74652783/173180586-c4920599-a4c3-42a8-9234-2791b4c19974.png">
@@ -15,7 +16,7 @@
 
 # Test model_number 2
 
-
+### model - 2
 <img width="1147" alt="스크린샷 2022-06-11 오후 5 43 52" src="https://user-images.githubusercontent.com/74652783/173180683-ab0b0c48-b9be-49fe-b683-dff9eb2176ab.png">
 
 <img width="1076" alt="스크린샷 2022-06-11 오후 5 45 34" src="https://user-images.githubusercontent.com/74652783/173180765-634da9be-8303-47fb-9569-261049abd7fd.png">
@@ -31,7 +32,7 @@
 
 
 # Test model_number_3
-
+### model - 3
 <img width="1237" alt="스크린샷 2022-06-11 오후 5 49 52" src="https://user-images.githubusercontent.com/74652783/173180948-75abb8b9-4e48-4ba3-a31e-32205a79387f.png">
 
 <img width="1051" alt="스크린샷 2022-06-11 오후 5 50 14" src="https://user-images.githubusercontent.com/74652783/173180950-690c7364-10f4-4508-8dff-e6c41cd0b8d2.png">
